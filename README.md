@@ -4,7 +4,8 @@
 
 ## SOY SEBASTIAN
 
-<img src="C:\Users\LAB-DSC-ITT\Documents\tec.jpg">
+![tec](https://github.com/GaLGoZo/GaLGoZo/assets/105876146/ec6209ee-3cfa-4c82-8d94-af302e0b28ae)
+
 
 Estudio en el Instituto Tecnologico de Tijuana la carrera de ingenieria Informatica 
 
@@ -25,7 +26,7 @@ Me gusta:
 
 Me encantaria trabajar junto a empresar como nintendo
 
-<img src="C:\Users\LAB-DSC-ITT\Documents\Nintendo.png">
+![Nintendo](https://github.com/GaLGoZo/GaLGoZo/assets/105876146/e5c02afb-c128-43c8-b911-75369229b529)
 
 
 
